@@ -1,6 +1,4 @@
 # taskEE_3
 
 ```
-design analog circuit
-design digital circuit
-``` 
+design analog circuit and digital circuit 
